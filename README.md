@@ -1,8 +1,10 @@
-##JavaScript Code Challenge
-##Description
+# JavaScript Code Challenge
+
+## Description
+
 This project contains three JavaScript challenges that help practice basic programming concepts.
 
-#Projects included:
+# Projects included:
 
 Grade Checker → Converts student marks (0–100) into grades A–E
 
@@ -10,7 +12,7 @@ Speed Detector → Detects overspeeding, awards demerit points, and suspends lic
 
 Net Salary Calculator → Calculates net salary based on 2025 Kenyan tax rules (PAYE, SHIF, NSSF, Housing Levy)
 
-##Project Setup
+## Project Setup
 
 Clone this repository:
 
@@ -24,7 +26,7 @@ Enter the required input (marks, speed, or salary details).
 
 View the results on the webpage or in the console.
 
-##Author
+## Author
 
 Jeff Ouda
 
